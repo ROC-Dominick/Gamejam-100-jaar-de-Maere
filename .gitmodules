@@ -1,0 +1,3 @@
+[submodule "DLibrary"]
+	path = DLibrary
+	url = https://github.com/XInfernoX/SubModuleDLibraryMaster.git
